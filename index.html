@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cake shop</title>
+		<meta charset="UTF-8"/>
+		<meta name="keywords" content="Cake shop,cakes,celebrate"/>
+		<meta name="description" content="Cake shop for weedings,birthdays and other"/>
+		<meta name="author" content="Julijana Milosavljevic" />
+		<meta name="robots" content="noindex, nofollow"/>	
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="https://fonts.googleapis.com/css?family=Baskervville|Indie+Flower&display=swap" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">		
+		<link rel="shortcut icon" href="assets/img/ikonica.ico"/>	
+</head>
+<body>
+    <div id="slajder">
+		<div id="zaglavlje">
+				<div id="logo">
+						<h1><a href="#slajder">Cake shop</a></h1>
+				</div>
+				<div id="meni">
+					<button id="btn"><i class="fa fa-bars"></i></button>
+					<ul id="meni1">	
+							<li><a id="pocetna" href="#slajder">Home</a></li>
+							<li><a id="brendovi" href="#prvi">Type</a></li>
+							<li><a id="ponuda" href="#drugi">Products</a></li>
+							<li><a id="kontakt" href="#treci">Contact</a></li>
+							<li><a id="galerija" href="#cetvrti">Galery</a></li>
+							<li><a id="autor" href="#peti">Author</a></li>
+					</ul>
+					
+				</div>
+		</div>
+		<div id="naslov">
+			<h2>
+				Welcome to Cake shop!
+			</h2>
+			<p>We make cakes according to your wishes.Choose composition, shape and decoration.
+			<a href="#prvi">Buy now</a>
+		</div>
+	</div>
+	<a href="#" id="dugmeGore">	
+	</a>
+	<div class="sadrzaj neparni" id="prvi">
+		<div class="podnaslovi">
+			<h2>Type</h2>
+		</div>
+		<div class="okvir" id="brendovi2">
+				
+	</div></div>
+	<div class="sadrzaj parni" id="drugi">
+
+
+			<div class="podnaslovi">
+					<h2>Product</h2>
+			</div>
+			<div class="okvir">
+				<div id="pretraga">
+				<select id="dropMarke" class='tekstForme sirina' >
+				<option value="0">Choose</option>
+				</select>
+				<select id="sortiranje" class='tekstForme sirina' >
+				<option value="0">Sort</option>
+				<option value="1">Ascending</option>
+				<option value="2">Descending</option>
+				</select>
+				<input type="text" id="search" placeholder="Search..."
+			   class='tekstForme sirina' >
+				</div>
+				</div>
+			   
+
+
+			<div class="okvir" id="proizvodi"></div>
+	<div class="sadrzaj neparni" id="treci">
+			<div class="podnaslovi">
+					<h2>Contact</h2>
+			</div>
+			<div class="okvir">
+				<form action="" method="post" name="kontakt" id="registracija">
+						<h2>Order your cake here:</h2>
+						<div class="drzac">
+							<label for="ime">First Name:</label>
+							<input type="text" class="tekstForme brisanje" id="ime" placeholder="Enter first name"/>
+						</div>
+						<div class="drzac">
+							<label for="prezime">Last Name:</label>
+							<input type="text" class="tekstForme brisanje" id="prezime" placeholder="Enter last name"/>
+						</div>
+						<div class="drzac">
+								<label for="vrsta">Type of cake:</label>
+								<input type="text" class="tekstForme brisanje" id="vrsta" placeholder="Enter name of cake"/>
+						</div>
+						<div class="drzac">
+								<label for="email">Email:</label>
+								<input type="text" class="tekstForme brisanje" id="email" placeholder="Enter email"/>
+						</div>
+						<div class="drzac">
+								<label for="poruka">Description:</label>
+								<textarea class="tekstForme brisanje" rows="7" id="poruka" placeholder="Enter description of cake..."></textarea>
+						</div>
+						<div class="drzac">
+								<label for="vrsta">City:</label>
+								<select class="tekstForme brisanje" id="dropLista"></select>
+						</div>
+						<div class="drzac">
+								<span id="godine">
+									<p>Weight of cake:</p>
+								</span>
+								<ul id="radio"></ul>	
+						</div>
+						<div class="drzac" id="dugmici">
+							<input type="button" name="posalji" class="potvrda" value="Send"/>
+							<input type="reset" name="brisanje" class="potvrda" value="Undo"/>
+						</div>
+						<div class="drzac" id="ispisTacnePoruke">
+						</div>
+					</form>
+			</div>
+	</div>
+	<div class="sadrzaj parni" id="cetvrti">
+			<div class="podnaslovi">
+				<h2>Galery</h2>
+			</div>
+			<div class="okvir">
+				<div id="drzacGalerije">
+					<div id="slike">
+						<button type="button" id="desno" class="levoDesno">
+							<i class="fa fa-chevron-right"></i>
+						</button>
+						<button type="button" id="levo" class="levoDesno">
+							<i class="fa fa-chevron-left"></i>
+						</button>
+						<div id="slike1"></div>
+						<div id="opis"></div>
+					</div>
+						</div>
+						
+						<div id="opis">
+						</div>
+					</div>
+					<div id="niz">
+					      <ul id="brojac"></ul>
+					</div>
+				</div>
+			</div>
+	<div class="sadrzaj neparni" id="peti">
+			<div class="podnaslovi">
+				<h2>Author</h2>
+			</div>
+			<div class="okvir">
+					<div id="slikaAutor">
+						<img src="assets/img/autor.jpg" alt="Slika autora"/>
+					</div>
+					<div id="tekstAutor">
+						<div id="autorGore">
+							<h2>Julijana Milosavljevic</h2>
+							<p>City od living:Belgrade</p>
+							<p>Date of birth:13.12.1999.</p>
+						</div>
+						<p>    
+	             		     My name is Julijana Milosavljevic.I'm from Osecina.I live in Belgrade.I finished tehnical secondary school as an "Administrator of computer networks".Now,I'm second year of Internet technologies on ICT-modul Web programming.My hobies are fashion,movies and series.
+								
+						
+						</p>
+					</div>	
+			</div>	
+	</div>
+	<div id="futer">
+		<div class="okvir" id="dole">
+				<div id="copiright">
+					<p>&copy; Julijana Milosavljevic</p>
+				</div>
+				<div id="sitemap">
+					<ul>
+						<li><a href="Dokumentacija.pdf" target="_blank">Documentation</a></li>
+					</ul>
+				</div>
+				<div id="mreze">
+					<ul id="mreze1"></ul>
+				</div>
+		</div>
+	</div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script type="text/javascript" src="assets/js/main.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.js"></script>
+</body>
+</html>

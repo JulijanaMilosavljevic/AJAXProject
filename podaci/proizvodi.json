@@ -1,0 +1,193 @@
+[
+ {
+ "slika":{
+ "src":"assets/img/slika1.jpg",
+ "alt":"slika1"
+ },
+ "ime":"Birthday cake-Ferrero Rocher",
+ "cena":12,
+ "tabela":{
+ "naslov":"Ferrero Rocher",
+ "opis":"Hazelnut chocolate bark, filling mascarpone, sweet sour cream, nutella, hazelnut."
+ },
+ "marke":{
+ "id":"1",
+ "naziv":"Birthday"
+ }
+ },
+ {
+ "slika":{
+ "src":"assets/img/slika2.jpg",
+ "alt":"slika2"
+ },
+ "ime":"Birthday cake-Chocolate",
+ "cena":12,
+ "tabela":{
+ "naslov":"Chocolate",
+ "opis":"Walnut bark, hazelnut or plasma, chocolate cream."
+ },
+ "marke":{
+ "id":"1",
+ "naziv":"Birthday"
+ }
+ },
+ {
+ "slika":{
+ "src":"assets/img/slika3.jpg",
+ "alt":"slika3"
+ },
+ "ime":"Birthday cake-Kinder",
+ "cena":14,
+ "tabela":{
+  "naslov":"Chocolate",
+ "opis":"Walnut or hazelnut bark, eurocream, filling chocolate and vanilla, whipped cream chocolate and vanilla"
+ },
+ "marke":{
+ "id":"1",
+ "naziv":"Birthday"
+ }
+ },
+ {
+ "slika":{
+ "src":"assets/img/slika4.jpg",
+ "alt":"slika4"
+ },
+ "ime":"Birthday cake-Reform",
+ "cena":11,
+ "tabela":{
+  "naslov":"Reform",
+ "opis":"Thin peel nuts, chocolate filling."
+ },
+ "marke":{
+ "id":"1",
+ "naziv":"Birthday"
+ }
+ },
+ {
+ "slika":{
+ "src":"assets/img/slika5.jpg",
+ "alt":"slika5"
+ },
+ "ime":"Weeding cake-Egipt",
+ "cena":20,
+ "tabela":{
+  "naslov":"Egipt",
+ "opis":"Walnut bark, fil caramel, hazelnut, whipped cream, filling vanilla cream."
+ },
+ "marke":{
+ "id":"2",
+ "naziv":"Weeding"
+ }
+ },
+ {
+ "slika":{
+ "src":"assets/img/slika6.jpg",
+ "alt":"slika6"
+ },
+ "ime":"Weeding cake-Fruit cake",
+ "cena":15,
+ "tabela":{
+ "naslov":"Fruit cake",
+ "opis":"Walnut, hazelnut or plasma, vanilla cream, fruit of your choice."
+ },
+ "marke":{
+ "id":"2",
+ "naziv":"Weeding"
+ }
+ },
+ {
+ "slika":{
+ "src":"assets/img/slika7.jpg",
+ "alt":"slika7"
+ },
+ "ime":"Weeding cake-Rafaelo",
+ "cena":20,
+ "tabela":{
+  "naslov":"Rafaelo",
+ "opis":"Coconut bark, vanilla cream."
+ },
+ "marke":{
+ "id":"2",
+ "naziv":"Weeding"
+ }
+ },
+ {
+ "slika":{
+ "src":"assets/img/slika8.jpg",
+ "alt":"slika8"
+ },
+ "ime":"Weeding cake-Chessecake",
+ "cena":12,
+ "tabela":{
+  "naslov":"Chessecake",
+ "opis":"Sweet sour cream, cheese, plasma, fruit of your choice"
+ },
+ "marke":{
+ "id":"2",
+ "naziv":"Weeding"
+ }},
+ {
+ "slika":{
+ "src":"assets/img/slika9.jpg",
+ "alt":"slika9"
+ },
+ "ime":"Ceremonial cake-Havana",
+ "cena":12,
+ "tabela":{
+ "naslov":"Havana",
+ "opis":"Hazelnut cinnamon, cinnamon jam, pomegranate jam, caramel, dill, cherry cream."
+ },
+ "marke":{
+ "id":"3",
+ "naziv":"Ceremonial"
+ }
+ },
+ {
+ "slika":{
+ "src":"assets/img/slika10.jpg",
+ "alt":"slika10"
+ },
+ "ime":"Ceremonial cake-Dynasty",
+ "cena":15,
+ "tabela":{
+  "naslov":"Dynasty",
+ "opis":"Hazelnut cinnamon, cinnamon jam, pomegranate jam, caramel, dill, cherry cream."
+ },
+ "marke":{
+ "id":"3",
+ "naziv":"Ceremonial"
+ }
+ },
+ {
+ "slika":{
+ "src":"assets/img/slika11.jpg",
+ "alt":"slika11"
+ },
+ "ime":"Ceremonial cake-Intercontinental",
+ "cena":23,
+ "tabela":{
+ "naslov":"Intercontinental",
+ "opis":"Walnut bark, first fil chocolate second filet Hazelnut, third fil plasma fourth fil"
+ },
+ "marke":{
+ "id":"3",
+ "naziv":"Ceremonial"
+ }
+ },
+ {
+ "slika":{
+ "src":"assets/img/slika12.jpg",
+ "alt":"slika12"
+ },
+ "ime":"Ceremonial cake-Jaffa",
+ "cena":20,
+ "tabela":{
+ "naslov":"Jaffa",
+ "opis":"Bark nut, fil vanilla cream jafa biscuit."
+ },
+ "marke":{
+ "id":"3",
+ "naziv":"Ceremonial"
+ }
+ }
+]

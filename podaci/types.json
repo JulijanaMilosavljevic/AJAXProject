@@ -1,0 +1,40 @@
+[
+     {
+         "naziv":"Birthday",
+         "slika":{
+         "src":"assets/img/rodj.jpg",
+         "alt":"rodjendan"
+     },
+         "tekst":{
+         "manji":"Making cakes for kids birthday, coming of age and other birthday celebrations.We offer a large selection of cakes for girls and boys of different motifs, patterns and shapes.",
+         "veliki":"Cake is an inevitable part of birthday celebration that fills every moment with utmost joy and happiness. Buy bestseller birthday cakes from our website to wish your loved ones and make their big day extra special. The fresh flavor of our cakes will add sweetness to their celebration and put a big smile on their face."
+		  },
+         "prvi":true
+          },
+          {
+         "naziv":"Weeding",
+         "slika":{
+         "src":"assets/img/svadba.jpg",
+         "alt":"svadba"
+         },
+         "tekst":{
+         "manji":"One of the most beautiful day of your life is the day when you say 'yes'.And the most beautiful wedding deserves the most beautiful wedding cake.",
+		 "veliki":"When your dear ones wedding bells are ringing, a lovely sweet cake from your end would indeed make them happier! Give the best treat to the wedding couple by ordering online wedding cakes. You will get to choose from wide varieties of custom made cakes, in which you can add personal notes too."
+          },
+         "prvi":false
+         },
+         {
+         "naziv":"Ceremonial",
+         "slika":{
+         "src":"assets/img/cer.jpg",
+         "alt":"cer"
+         },
+         "tekst":{
+		 "manji":"If you're looking for a birthday cake, cake for an anniversary or any other festive occasion we are here to complement your celebration.",
+		 "veliki":"The anniversary is an occasion to let your significant other know how deeply you adore their presence in your life. Celebrate this special occasion with a yummy anniversary cake in a delightful manner. From red velvet to blueberry cheesecake, romantic heart-shaped cake to delicious chocolate truffle cake - we have plenty of options that you can order online to wish your partner on the anniversary and make it memorable."
+ },
+ "prvi":false
+ }
+]
+
+ 

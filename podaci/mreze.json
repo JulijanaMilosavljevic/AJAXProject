@@ -1,0 +1,7 @@
+[
+ { "mreza": "http://www.facebook.com","fafa": "fa fa-facebook"},
+ { "mreza": "https://www.instagram.com/?hl=sr", "fafa": "fa fainstagram"},
+ { "mreza": "https://twitter.com/?lang=sr", "fafa": "fa fatwitter"},
+ { "mreza": "https://web.whatsapp.com/","fafa": "fa fawhatsapp"},
+ { "mreza": "https://www.google.rs/#gws_rd=cr", "fafa": "fa fagoogle-plus"}
+]

@@ -1,0 +1,22 @@
+[
+ {"velika": "slika1.jpg", "mala": "slika1.jpg", "alt":
+"slika1"},
+ {"velika": "slika2.jpg","mala": "slika2.jpg","alt": "slika2"},
+ {"velika": "slika3.jpg","mala": "slika3.jpg", "alt": "slika3"},
+ {"velika": "slika4.jpg","mala": "slika4.jpg","alt": "slika4"},
+ {"velika": "slika5.jpg", "mala": "slika5.jpg","alt":
+"slika5"},
+ {"velika": "slika6.jpg", "mala": "slika6.jpg","alt":
+"slika6"},
+ {"velika": "slika7.jpg","mala": "slika7.jpg","alt": "slika7"},
+ {"velika": "slika8.jpg","mala": "slika8.jpg","alt":
+"slika8"},
+ {"velika": "slika9.jpg", "mala": "slika9.jpg","alt":
+"slika9"},
+ {"velika": "slika10.jpg","mala": "slika10.jpg","alt":
+"slika10"},
+ {"velika": "slika11.jpg", "mala": "slika11.jpg", "alt":
+"slika11"},
+ {"velika": "slika12.jpg", "mala": "slika12.jpg", "alt":
+"slika12"}
+]
